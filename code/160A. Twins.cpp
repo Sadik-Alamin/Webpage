@@ -24,4 +24,5 @@ int main()
         //cout<<c<<endl;
         c=1;
     }
+    return 0;
 }
